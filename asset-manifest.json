@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Harikrishna2323/React-task-1/static/css/main.1d29398e.chunk.css",
+    "main.js": "/Harikrishna2323/React-task-1/static/js/main.65d10c96.chunk.js",
+    "main.js.map": "/Harikrishna2323/React-task-1/static/js/main.65d10c96.chunk.js.map",
+    "runtime-main.js": "/Harikrishna2323/React-task-1/static/js/runtime-main.71f4281c.js",
+    "runtime-main.js.map": "/Harikrishna2323/React-task-1/static/js/runtime-main.71f4281c.js.map",
+    "static/js/2.7bca66ae.chunk.js": "/Harikrishna2323/React-task-1/static/js/2.7bca66ae.chunk.js",
+    "static/js/2.7bca66ae.chunk.js.map": "/Harikrishna2323/React-task-1/static/js/2.7bca66ae.chunk.js.map",
+    "index.html": "/Harikrishna2323/React-task-1/index.html",
+    "static/css/main.1d29398e.chunk.css.map": "/Harikrishna2323/React-task-1/static/css/main.1d29398e.chunk.css.map",
+    "static/js/2.7bca66ae.chunk.js.LICENSE.txt": "/Harikrishna2323/React-task-1/static/js/2.7bca66ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71f4281c.js",
+    "static/js/2.7bca66ae.chunk.js",
+    "static/css/main.1d29398e.chunk.css",
+    "static/js/main.65d10c96.chunk.js"
+  ]
+}
